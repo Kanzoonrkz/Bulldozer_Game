@@ -18,7 +18,7 @@ They are 3 ways to move your character:
 
 ## Level
 
-Currently, they are 4 playable level
+Currently, there are 4 playable level
 
 Level-1
 ![level-1](./images/lv_1.png)
