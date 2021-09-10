@@ -10,7 +10,7 @@ Home page view, based on my experience. Some symbol may look different for some 
 
 ## Game Mechanic
 
-They are 3 ways to move your character:
+There are 3 ways to move your character:
 
 - Use arrow key
 - Use WASD
